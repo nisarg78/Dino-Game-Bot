@@ -1,8 +1,8 @@
 # Dino-Game-Bot
 
-# Use this link for playing dino game:-  chrome://dino/
+# Use this link for playing dino game:-  [chrome://dino/](chrome://dino/)
 
-![](img/dino-ss)
+![](img/dino-ss.JPG)
 
 ## How to run:
 - Open game link chrome://dino/
